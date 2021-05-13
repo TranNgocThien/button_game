@@ -20,3 +20,11 @@ $ npm start
 - From Green, you can only go to Blue.
 - From Yellow, you can only go to Blue.
 - You cannot visit Yellow consecutively.
+
+### Test Case
+
+- ✅ Blue → Yellow
+- ✅ Blue → Green → Blue → Yellow
+- ✅ Blue → Green → ... → Blue → Green → Blue → Yellow
+- ⛔ Blue → Yellow → Blue → Yellow
+- ⛔ Blue → Green → Blue → Yellow → Blue → Yellow
