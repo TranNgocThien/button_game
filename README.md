@@ -26,5 +26,7 @@ $ npm start
 - ✅ Blue → Yellow
 - ✅ Blue → Green → Blue → Yellow
 - ✅ Blue → Green → ... → Blue → Green → Blue → Yellow
+- ⛔ Blue → Yellow → Green
+- ⛔ Blue → Green → Yellow
 - ⛔ Blue → Yellow → Blue → Yellow
 - ⛔ Blue → Green → Blue → Yellow → Blue → Yellow
