@@ -1,6 +1,6 @@
 # button_game
 This is a game with 4 buttons and was build by express-generator, bulma.
-![demo](button_game/public/images/demo.png)
+![demo](/public/images/demo.png)
 ## Installation
 
 ```bash
