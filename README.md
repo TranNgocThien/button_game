@@ -1,5 +1,5 @@
 # button_game
-This is a game with 4 buttons.
+This is a game with 4 buttons and was build by express-generator, bulma
 
 ## Installation
 
